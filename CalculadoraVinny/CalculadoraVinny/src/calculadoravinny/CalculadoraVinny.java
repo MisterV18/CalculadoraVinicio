@@ -7,7 +7,7 @@ package calculadoravinny;
 
 /**
  *
- * @author multiplataforma6
+ * @author MisterV
  */
 public class CalculadoraVinny {
 
